@@ -56,7 +56,7 @@ int main(int argc, char *argv[])
             std::string target2 = "pic.0748.jpg";
             custom(target, target2, database, numImages);
         }
-    //extensions
+// EXTENSIONS
     else if (matchingMethod == "bluebin")
         {
             blue_bin(target, database, numImages);
