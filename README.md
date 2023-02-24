@@ -2,5 +2,6 @@
 
 ## Project 1: Real-Time Filtering ✅
 ## Project 2: Content-based Image Retrieval ✅
+## Project 3: Real-Time 2D Object Recognition ✅
 
 
