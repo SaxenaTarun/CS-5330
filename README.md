@@ -5,3 +5,4 @@
 ## Project 3: Real-Time 2D Object Recognition ✅
 ## Project 4: Calibration and Augmented Reality ✅
 
+Will upload all the projects after the course completion!!
